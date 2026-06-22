@@ -132,3 +132,20 @@ Successfully identified and analyzed DNS traffic using Wireshark.
 Observed how domain names are translated into IP addresses through DNS queries and responses.
 
 Status: Completed ✅
+## Example DNS Query Observed
+
+Domain:
+
+google.com
+
+Protocol:
+
+DNS
+
+Activity:
+
+Standard DNS Query and Response
+
+Purpose:
+
+Resolve a domain name into an IP address for network communication.
